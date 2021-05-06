@@ -90,7 +90,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: Look here to see some of my code.
+        subtitle: Look here to see some of my code!
       - title: The Big Title For the Feature
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
