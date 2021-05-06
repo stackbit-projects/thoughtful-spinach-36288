@@ -74,7 +74,7 @@ sections:
         media_position: right
         media_width: fifty
         title: Software Testing
-      - title: The Big Title For the Feature
+      - title: Coding
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
