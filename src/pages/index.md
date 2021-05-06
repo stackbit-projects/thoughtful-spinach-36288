@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Anthony Williams
     subtitle: Welcome to my portfolio!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Hi! I'm a student studying with Test-Ed at Fishburners, here's where I
+      post my work, as well as what I do in my spare time. Have a look around!
     actions:
       - label: Try Free
         url: /pricing
