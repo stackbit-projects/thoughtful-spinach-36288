@@ -92,7 +92,7 @@ sections:
         media_width: fifty
         subtitle: Look here to see some of my code!
       - title: Work and Education
-        subtitle: Look through my studies and old work here!
+        subtitle: Look through my history here!
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
