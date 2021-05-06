@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Anthony Williams
-    subtitle: Optional hero section subtitle
+    subtitle: Welcome to my portfolio!
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
