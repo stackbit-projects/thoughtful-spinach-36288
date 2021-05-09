@@ -29,7 +29,7 @@ Everty is a startup based in the EV Charge Management sector, in April 2021 our 
 
 # The Test Process
 
-##### How we tested the app.
+###### How we tested the app.
 
 ## User Journey
 
@@ -59,7 +59,7 @@ We downloaded the apps by two of their competitors, ChargeFox and ChargePoint, a
 
 # The Report
 
-##### How we collected and delivered our findings.
+###### How we collected and delivered our findings.
 
 ## Presentation
 
